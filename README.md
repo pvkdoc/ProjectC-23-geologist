@@ -1,1 +1,2 @@
-# ProjectC-23-geologist
+# Geologist
+Geologist Project
